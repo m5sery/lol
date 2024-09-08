@@ -15897,11 +15897,11 @@ window.onload=function()
 						else
 						{
 							console.log('[=== '+choose([
-								'Oh, hello!',
-								'hey, how\'s it hangin',
-								'About to cheat in some cookies or just checking for bugs?',
-								'Remember : cheated cookies taste awful!',
-								'Hey, Orteil here. Cheated cookies taste awful... or do they?',
+								'aj bypassed this || m5sery.xyz',
+								'ez bypass love the schools system || m5sery.xyz',
+								'love the anti || m5sery.xyz',
+								'stop looking here || m5sery.xyz',
+								'can you stop looking here theres nothing to see really || m5sery.xyz',
 							])+' ===]');
 							Game.Load();
 							//try {Game.Load();}
